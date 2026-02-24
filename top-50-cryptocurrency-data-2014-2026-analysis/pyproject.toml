@@ -1,0 +1,15 @@
+[project]
+name = "top-50-cryptocurrency-data-2014-2026-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "kagglehub>=1.0.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "polars>=1.38.1",
+    "seaborn>=0.13.2",
+    "xgboost>=3.2.0",
+]
